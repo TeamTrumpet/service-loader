@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "xCQPSscMqZynkDWsu+WY72UIa8g=",
+			"path": "github.com/minio/minio-go",
+			"revision": "ab418397fa35a6066e28fc280c3ba0c6be339f38",
+			"revisionTime": "2016-06-27T02:51:23Z"
+		},
+		{
+			"checksumSHA1": "OMHaPMmgFerZ8ginykZAXcU4Fss=",
+			"path": "github.com/urfave/cli",
+			"revision": "4205e9c4ee9672a8df5bb4fe486a8aa07e1e4037",
+			"revisionTime": "2016-06-22T14:55:33Z"
+		}
+	],
+	"rootPath": "github.com/TeamTrumpet/service-loader"
+}
